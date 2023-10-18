@@ -1,0 +1,12 @@
+node_modules
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vscode
+
+/data/pgadmin/**/*
+/data/postgresql/**/*
+/data/postgres/**/*
